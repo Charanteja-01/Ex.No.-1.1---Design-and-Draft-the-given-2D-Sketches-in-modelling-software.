@@ -42,6 +42,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+<img width="1510" height="1042" alt="ChatGPT Image Sep 20, 2026, 02_15_02 PM" src="https://github.com/user-attachments/assets/690348d8-f7dc-4c9d-b23d-f95cdee74437" />
 
 
 ## RESULT
